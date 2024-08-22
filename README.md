@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yassine Assamdi</h1>
-<h3 align="center">A Passionate front-end Developer From Morocco</h3>
+<h3 align="center">A Passionate full stack Developer From Morocco</h3>
 <br />
 
  
