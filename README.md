@@ -1,24 +1,100 @@
-<h1 align="center">Hi 👋, I'm yassine Assamdi</h1>
-<h3 align="center">A Passionate full stack Developer From Morocco</h3>
-<br />
+<h1 align="center">👨‍💻 [Your Name]</h1>
 
- 
-
-<!---
-Yassine-assamdi/Yassine-assamdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-- 🌱 I’m currently learning **Network programming**
-
-- 📫 How to reach me **assamdiyassine1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/assamdi-yassine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas qadil" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SegFault#3998" height="30" width="40" /></a>
+<p align="center">
+  <strong>Full Stack Developer | Problem Solver | Tech Enthusiast</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue.js-blue?style=for-the-badge" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python-green?style=for-the-badge" alt="Backend" />
+  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20PostgreSQL-yellow?style=for-the-badge" alt="Database" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+Hello! I'm a passionate full stack developer with a knack for creating efficient, scalable, and user-friendly applications. My journey in tech has equipped me with a versatile skill set, allowing me to build complete web solutions from the ground up.
+
+### 💻 Tech Stack
+
+```json
+{
+  "Frontend": ["HTML", "CSS", "JavaScript", "React", "Vue.js"],
+  "Backend": ["Node.js", "Express", "Python", "Django"],
+  "Database": ["MongoDB", "PostgreSQL", "MySQL"],
+  "DevOps": ["Docker", "Kubernetes", "AWS"],
+  "Tools": ["Git", "VS Code", "Postman"]
+}
+```
+
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="link-to-repo">
+        <img src="/api/placeholder/300/200" width="300px;" alt="Project 1"/>
+        <br />
+        <sub><b>Project 1</b></sub>
+      </a>
+      <br />
+      <sub>Brief description and tech stack</sub>
+    </td>
+    <td align="center">
+      <a href="link-to-repo">
+        <img src="/api/placeholder/300/200" width="300px;" alt="Project 2"/>
+        <br />
+        <sub><b>Project 2</b></sub>
+      </a>
+      <br />
+      <sub>Brief description and tech stack</sub>
+    </td>
+    <td align="center">
+      <a href="link-to-repo">
+        <img src="/api/placeholder/300/200" width="300px;" alt="Project 3"/>
+        <br />
+        <sub><b>Project 3</b></sub>
+      </a>
+      <br />
+      <sub>Brief description and tech stack</sub>
+    </td>
+  </tr>
+</table>
+
+### 🌱 Current Focus
+
+- 📚 Learning [Technology or skill]
+- 🔍 Exploring [Area of interest]
+- 🛠️ Building [Current project or goal]
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 🎯 Goals for 2024
+
+- [ ] Contribute to 5 open-source projects
+- [ ] Launch my personal tech blog
+- [ ] Master a new programming language
+- [ ] Speak at a tech conference
+
+### ⚡ Fun Fact
+
+[Share an interesting fact about yourself or your coding journey]
+
+---
+
+<p align="center">💬 Let's connect and build amazing things together!</p>
