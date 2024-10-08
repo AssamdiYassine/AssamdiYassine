@@ -44,15 +44,6 @@ Hello! I'm a passionate full stack developer with a knack for creating efficient
 - 🔍 Exploring [Area of interest]
 - 🛠️ Building [Current project or goal]
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</p>
 
  
  
