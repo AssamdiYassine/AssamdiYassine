@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 [Your Name]</h1>
+<h1 align="center">👨‍💻 Yassine Assamdi</h1>
 
 <p align="center">
   <strong>Full Stack Developer | Problem Solver | Tech Enthusiast</strong>
@@ -16,7 +16,7 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+--- 
 
 ### 🚀 About Me
 
@@ -36,37 +36,7 @@ Hello! I'm a passionate full stack developer with a knack for creating efficient
 
 ### 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="link-to-repo">
-        <img src="/api/placeholder/300/200" width="300px;" alt="Project 1"/>
-        <br />
-        <sub><b>Project 1</b></sub>
-      </a>
-      <br />
-      <sub>Brief description and tech stack</sub>
-    </td>
-    <td align="center">
-      <a href="link-to-repo">
-        <img src="/api/placeholder/300/200" width="300px;" alt="Project 2"/>
-        <br />
-        <sub><b>Project 2</b></sub>
-      </a>
-      <br />
-      <sub>Brief description and tech stack</sub>
-    </td>
-    <td align="center">
-      <a href="link-to-repo">
-        <img src="/api/placeholder/300/200" width="300px;" alt="Project 3"/>
-        <br />
-        <sub><b>Project 3</b></sub>
-      </a>
-      <br />
-      <sub>Brief description and tech stack</sub>
-    </td>
-  </tr>
-</table>
+ >
 
 ### 🌱 Current Focus
 
@@ -84,16 +54,8 @@ Hello! I'm a passionate full stack developer with a knack for creating efficient
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🎯 Goals for 2024
-
-- [ ] Contribute to 5 open-source projects
-- [ ] Launch my personal tech blog
-- [ ] Master a new programming language
-- [ ] Speak at a tech conference
-
-### ⚡ Fun Fact
-
-[Share an interesting fact about yourself or your coding journey]
+ 
+ 
 
 ---
 
